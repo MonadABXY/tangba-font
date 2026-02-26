@@ -1,0 +1,213 @@
+@font-face {
+  font-family: "Tangba11";
+  src: url("woff/Tangba11.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba12";
+  src: url("woff/Tangba12.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba13";
+  src: url("woff/Tangba13.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba14";
+  src: url("woff/Tangba14.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba15";
+  src: url("woff/Tangba15.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba16";
+  src: url("woff/Tangba16.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba17";
+  src: url("woff/Tangba17.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba18";
+  src: url("woff/Tangba18.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba19";
+  src: url("woff/Tangba19.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba20";
+  src: url("woff/Tangba20.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba21";
+  src: url("woff/Tangba21.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba22";
+  src: url("woff/Tangba22.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba23";
+  src: url("woff/Tangba23.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba24";
+  src: url("woff/Tangba24.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Tangba25";
+  src: url("woff/Tangba25.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "TangbaMono11";
+  src: url("woff/TangbaMono11.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono12";
+  src: url("woff/TangbaMono12.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono13";
+  src: url("woff/TangbaMono13.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono14";
+  src: url("woff/TangbaMono14.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono15";
+  src: url("woff/TangbaMono15.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono16";
+  src: url("woff/TangbaMono16.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono17";
+  src: url("woff/TangbaMono17.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono18";
+  src: url("woff/TangbaMono18.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono19";
+  src: url("woff/TangbaMono19.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono20";
+  src: url("woff/TangbaMono20.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono21";
+  src: url("woff/TangbaMono21.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono22";
+  src: url("woff/TangbaMono22.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono23";
+  src: url("woff/TangbaMono23.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono24";
+  src: url("woff/TangbaMono24.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TangbaMono25";
+  src: url("woff/TangbaMono25.woff2") format("woff2");
+}
+
+.tangba11 {
+  font-family: "Tangba11", sans-serif;
+}
+.tangba12 {
+  font-family: "Tangba12", sans-serif;
+}
+.tangba13 {
+  font-family: "Tangba13", sans-serif;
+}
+.tangba14 {
+  font-family: "Tangba14", sans-serif;
+}
+.tangba15 {
+  font-family: "Tangba15", sans-serif;
+}
+.tangba16 {
+  font-family: "Tangba16", sans-serif;
+}
+.tangba17 {
+  font-family: "Tangba17", sans-serif;
+}
+.tangba18 {
+  font-family: "Tangba18", sans-serif;
+}
+.tangba19 {
+  font-family: "Tangba19", sans-serif;
+}
+.tangba20 {
+  font-family: "Tangba20", sans-serif;
+}
+.tangba21 {
+  font-family: "Tangba21", sans-serif;
+}
+.tangba22 {
+  font-family: "Tangba22", sans-serif;
+}
+.tangba23 {
+  font-family: "Tangba23", sans-serif;
+}
+.tangba24 {
+  font-family: "Tangba24", sans-serif;
+}
+.tangba25 {
+  font-family: "Tangba25", sans-serif;
+}
+
+.tangbamono11 {
+  font-family: "TangbaMono11", monospace;
+}
+.tangbamono12 {
+  font-family: "TangbaMono12", monospace;
+}
+.tangbamono13 {
+  font-family: "TangbaMono13", monospace;
+}
+.tangbamono14 {
+  font-family: "TangbaMono14", monospace;
+}
+.tangbamono15 {
+  font-family: "TangbaMono15", monospace;
+}
+.tangbamono16 {
+  font-family: "TangbaMono16", monospace;
+}
+.tangbamono17 {
+  font-family: "TangbaMono17", monospace;
+}
+.tangbamono18 {
+  font-family: "TangbaMono18", monospace;
+}
+.tangbamono19 {
+  font-family: "TangbaMono19", monospace;
+}
+.tangbamono20 {
+  font-family: "TangbaMono20", monospace;
+}
+.tangbamono21 {
+  font-family: "TangbaMono21", monospace;
+}
+.tangbamono22 {
+  font-family: "TangbaMono22", monospace;
+}
+.tangbamono23 {
+  font-family: "TangbaMono23", monospace;
+}
+.tangbamono24 {
+  font-family: "TangbaMono24", monospace;
+}
+.tangbamono25 {
+  font-family: "TangbaMono25", monospace;
+}
